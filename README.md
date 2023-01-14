@@ -1,5 +1,5 @@
 
-# jayson_s_application2
+# bus_application
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
